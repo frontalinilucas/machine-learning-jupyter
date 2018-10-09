@@ -3,3 +3,5 @@ __pycache__/
 *.csv
 *.hdf5
 *.npy
+/Kaggle Competitions/Trabajo Final/datasets/
+/Kaggle Competitions/human-protein-atlas-image-classification/datasets/
